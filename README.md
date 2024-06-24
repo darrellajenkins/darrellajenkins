@@ -1,4 +1,4 @@
-- 🔬Hi, I’m Darrell Jenkins.
+- 🔬 Hi, I’m Darrell Jenkins.
 - 😃 **<span style="font-size: 14px; color: teal; front-weight: bold;">I’m interested in helping both Python and the Python Community thrive. To that end, I am running for the PSF Board 2024! My candidacy and others' will be announced on June 27 (https://pyfound.blogspot.com/). Voting begins July 2.</span>**
 
 - 🌱 I’m currently learning Python and loving every moment!
