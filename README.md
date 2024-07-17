@@ -1,10 +1,10 @@
 - 🔬 Hi, I’m Darrell Jenkins.
-- 😃 **<span style="font-size: 14px; color: teal; front-weight: bold;">I’m interested in helping both Python and the Python Community thrive. To that goal, I am running for the PSF Board 2024!
-- Please look at my video for candidacy is featured here:  (https://youtu.be/OWyunE7PD0I?si=c5QcK1ySsbavyKVK).
-- My written statement is here::(https://www.python.org/nominations/elections/2024-python-software-foundation-board/nominees/)). Voting is from July 2 through July 16.</span>**
+- 😃 **<span style="font-size: 14px; color: teal; front-weight: bold;">I’m interested in helping both Python and the Python Community thrive. I ran for a seat on the PSF Board in 2024.
+- My video for candidacy is featured here:  (https://youtu.be/OWyunE7PD0I?si=c5QcK1ySsbavyKVK).
+- My written statement is here::(https://www.python.org/nominations/elections/2024-python-software-foundation-board/nominees/)).
 
-- 🌱 I’m currently learning Python and loving every moment!
-- 💞️ If you or someone you know is part of a small team (1 -5 devs) I would love to collaborate on anything Python related.
+- 🌱 I’m programming in Python, HTML, and CSS - loving every minute of it!
+- 💞️ If you or someone you know is part of a small team (1 -5 devs), I would love to collaborate on anything Python related.
 - 📫 Feel free to message me on LinkedIn:  https://www.linkedin.com/in/darrellajenkins
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I played in a Wheel of Fortune episode in October 2017!
