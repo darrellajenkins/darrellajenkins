@@ -4,7 +4,7 @@
 - My written statement is here::(https://www.python.org/nominations/elections/2024-python-software-foundation-board/nominees/)).
 
 - 🌱 I’m programming in Python, HTML, and CSS - loving every minute of it!
-- 💞️ If you or someone you know is part of a small team (1 -5 devs), I would love to collaborate on anything Python related.
+- 💞️ Always open to collaborate on a project.
 - 📫 Feel free to message me on LinkedIn:  https://www.linkedin.com/in/darrellajenkins
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I played in a Wheel of Fortune episode in October 2017!
