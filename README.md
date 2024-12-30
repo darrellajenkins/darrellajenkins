@@ -1,10 +1,10 @@
 - 🔬 Hi, I’m Darrell Jenkins.
 
-- 🌱 I programming in Python, HTML, and CSS - loving every minute of it!
+- 🌱 I currently program in Python, HTML, and CSS - and love every minute of it!
   
 - 💞️ Always open to collaborate on a project.
   
-- 📫 Feel free to message me on LinkedIn:  https://www.linkedin.com/in/darrellajenkins
+- 📫 Message me:  https://www.linkedin.com/in/darrellajenkins
   
 - ⚡ Fun fact: I appeared in a Wheel of Fortune episode in October 2017!
 - 😃 **<span style="font-size: 14px; color: teal; front-weight: bold;">I’m interested in helping both Python and the Python Community thrive. I ran for a seat on the PSF Board in 2024.
