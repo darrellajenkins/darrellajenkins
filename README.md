@@ -1,4 +1,4 @@
-- 🌱 I currently program in Python, HTML, and CSS.
+- 🌱 Languages: Python, HTML, CSS.
   
 - 💞️ Always open to collaborate or contribute to an open source project.
   
