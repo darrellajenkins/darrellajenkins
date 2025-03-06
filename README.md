@@ -6,8 +6,7 @@
   
 - ⚡ Fun fact: I appeared in a Wheel of Fortune episode in October 2017!
 - 
-- 😃 **<span style="font-size: 14px; color: teal; front-weight: bold;">I’m interested in helping both Python and the Python Community thrive.
-
+- 😃 **<span style="font-size: 14px; color: teal; front-weight: bold;">I’m interested in education and helping the Python Community thrive.
 
 <!---
 darrellajenkins/darrellajenkins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
