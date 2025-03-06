@@ -5,7 +5,7 @@
 - 📫 Message me:  https://www.linkedin.com/in/darrellajenkins
   
 - ⚡ Fun fact: I appeared in a Wheel of Fortune episode in October 2017!
-- 
+
 - 😃 **<span style="font-size: 14px; color: teal; front-weight: bold;">I’m interested in education and helping the Python Community thrive.
 
 <!---
