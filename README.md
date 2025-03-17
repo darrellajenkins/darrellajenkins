@@ -4,7 +4,7 @@
   
 - 📫 Message me:  https://www.linkedin.com/in/darrellajenkins
   
-- 😃 **<span style="font-size: 14px; color: teal; front-weight: bold;">I’m interested in education and helping the Python Community thrive.
+- 😃 **<span style="font-size: 14px; color: teal; front-weight: bold;">I’m interested in helping the Python Community thrive.
 
 - ⚡ Fun fact: I was a contestant in a Wheel of Fortune episode (Season 35, Episode 19) in October 2017!
   
