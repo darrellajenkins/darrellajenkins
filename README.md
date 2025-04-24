@@ -1,6 +1,6 @@
 - 🌱 Languages: Python, HTML, CSS.
   
-- 💞️ Always open to collaborate or contribute to an open source project.
+- 💞️ Always open to collaborate on an open source project.
   
 - 📫 Message me:  https://www.linkedin.com/in/darrellajenkins
   
