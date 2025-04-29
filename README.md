@@ -1,4 +1,4 @@
-- 🌱 Languages: Python, HTML, CSS.
+- 🌱 Languages: Python, C#, HTML, CSS.
   
 - 💞️ Always open to collaborate on an open source project.
   
